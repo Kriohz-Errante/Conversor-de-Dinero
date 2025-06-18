@@ -10,8 +10,10 @@ Este es un conversor de divisas que nos permite realizar conversiones entre dife
 - `Otros comandos: `: El programa permite salir de la aplicación en cualquier momento seleccionando la opción "Salir".
 
  ## Cómo Usar
-
-1. El programa mostrará un menú con las siguientes opciones:
+ 
+1. En la clase CredencialApi hay un String llamado API_KEY en el cual debe colocar la contraseña proporcionada por el sitio: https://www.exchangerate-api.com/
+   
+3. El programa mostrará un menú con las siguientes opciones:
    
    * Convertir de Dólar a Peso colombiano.
 
