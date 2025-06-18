@@ -32,7 +32,7 @@ Este es un conversor de divisas que nos permite realizar conversiones entre dife
 
 3. El programa mostrará la tasa de cambio actual y el valor convertido.
 
-##Herramientas Utilizadas: 
+## Herramientas Utilizadas: ## 
 
    * Java: El lenguaje de programación orientado a objetos para implementar un conversor de divisas.
 
