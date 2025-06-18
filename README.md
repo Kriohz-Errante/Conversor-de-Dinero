@@ -9,7 +9,7 @@ Este es un conversor de divisas que nos permite realizar conversiones entre dife
 - `Tasas de cambio en tiempo real:` El conversor utiliza un servicio externo para obtener tasas de cambio en tiempo real. 
 - `Otros comandos: `: El programa permite salir de la aplicación en cualquier momento seleccionando la opción "Salir".
 
-- ## Cómo Usar
+ ## Cómo Usar
 
 1. El programa mostrará un menú con las siguientes opciones:
    
