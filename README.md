@@ -2,7 +2,7 @@
 
 Este es un conversor de divisas que nos permite realizar conversiones entre diferentes divisas, utilizando tasas de cambio en tiempo real. El proyecto fue diseñado para facilitar la conversión entre una divisa a otra. 
 
-## :hammer:Funcionalidades del proyecto
+## Funcionalidades del proyecto
 
 - `Interfaz:`:  El programa ofrece un menú sencillo en el que el usuario puede seleccionar la moneda base y la moneda destino.
 - `Conversión de monedas:`:  Los usuarios pueden convertir entre varias monedas, tales como USD, CLP, BRL, ARS.
