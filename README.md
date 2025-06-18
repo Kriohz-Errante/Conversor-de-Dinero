@@ -6,7 +6,7 @@ Este es un conversor de divisas que nos permite realizar conversiones entre dife
 
 - `Interfaz:`:  El programa ofrece un menú sencillo en el que el usuario puede seleccionar la moneda base y la moneda destino.
 - `Conversión de monedas:`:  Los usuarios pueden convertir entre varias monedas, tales como USD, CLP, BRL, ARS.
-- `Tasas de cambio en tiempo real: .`: El conversor utiliza un servicio externo para obtener tasas de cambio en tiempo real. 
+- `Tasas de cambio en tiempo real:` El conversor utiliza un servicio externo para obtener tasas de cambio en tiempo real. 
 - `Otros comandos: `: El programa permite salir de la aplicación en cualquier momento seleccionando la opción "Salir".
 
 - ## Cómo Usar
